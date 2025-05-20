@@ -1,0 +1,14 @@
+Geração de Senhas Aleatórias:
+Cria 10 números aleatórios entre 1 e 999 e os armazena em um vetor chamado senhas.
+
+Exibição de Senhas:
+Mostra ao usuário as senhas originais ou ordenadas.
+
+Ordenações:
+Oferece duas opções de ordenação:
+Bubble Sort: Algoritmo de ordenação simples, que compara e troca elementos adjacentes repetidamente.
+Merge Sort: Algoritmo mais eficiente, baseado na técnica "dividir para conquistar".
+
+Menu Interativo:
+Exibe um menu em loop até o usuário escolher sair (opção 0).
+linguagem usada foi o portugol studio
