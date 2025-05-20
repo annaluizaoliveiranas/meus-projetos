@@ -1,0 +1,9 @@
+Lê um valor inteiro a do usuário.
+
+Verifica se a é positivo, negativo ou zero e armazena um código (m) correspondente:
+1 para positivo,
+2 para negativo,
+3 para zero.
+
+Usa a estrutura escolha...caso para exibir a mensagem correspondente.
+
